@@ -44,6 +44,24 @@
       "phone": "123456789",
       "country": "Taiwan",
       "id": 6
+    },
+    {
+      "email": "user6@example.com",
+      "password": "$2a$10$KqF41WxlKwvd7nxZUgLJ0ONHAMJS21EMUkfBOP4Ov/VqkJ/2QXrby",
+      "firstName": "user6",
+      "lastName": "user6",
+      "phone": "123456789",
+      "country": "Taiwan",
+      "id": 7
+    },
+    {
+      "email": "user8@example.com",
+      "password": "$2a$10$cLkZEJurm7iXhxy8JbwwruEGstC1Y.BVPNpbdK6IyZlukR5ObqJeC",
+      "firstName": "user8",
+      "lastName": "user8",
+      "phone": "123456789",
+      "country": "Taiwan",
+      "id": 8
     }
   ]
 }
