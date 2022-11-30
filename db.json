@@ -35,6 +35,15 @@
       "email": "user4@example.com",
       "password": "$2a$10$pKUCezcbkDINveyQx47zjeKpwueEX6xQ8Txu4UORGwtGOHrBMB2FW",
       "id": 4
+    },
+    {
+      "email": "user5@example.com",
+      "password": "$2a$10$Jyfp0narj0zNYudBo7tWbe0jDeeWP43xpmuDEl4RVnUZph7NIE1Ku",
+      "firstName": "user5",
+      "lastName": "user5",
+      "phone": "123456789",
+      "country": "Taiwan",
+      "id": 6
     }
   ]
 }
