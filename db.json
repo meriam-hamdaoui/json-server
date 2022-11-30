@@ -2,94 +2,39 @@
   "users": [
     {
       "id": 1,
-      "firstName": "ahmed",
-      "lastName": "ahmed",
+      "firstName": "user1",
+      "lastName": "user1",
       "phone": "99874563",
       "country": "Tunisia",
-      "email": "ahmed_ahmed@gmail.com",
-      "password": "123456"
+      "email": "user1@gmail.com",
+      "password": "$2a$10$pKUCezcbkDINveyQx47zjeKpwueEX6xQ8Txu4UORGwtGOHrBMB2FW"
     },
     {
       "id": 2,
-      "firstName": "rahma",
-      "lastName": "rahma",
+      "firstName": "user3",
+      "lastName": "user3",
       "phone": "98741236",
       "country": "Egypt",
-      "email": "rahma_rahma@gmail.com",
-      "password": "123456"
+      "email": "user3@gmail.com",
+      "password": "$2a$10$pKUCezcbkDINveyQx47zjeKpwueEX6xQ8Txu4UORGwtGOHrBMB2FW"
     },
     {
-      "firstName": "salim",
-      "lastName": "sloum",
-      "phone": "22478963",
-      "country": "Libanan",
-      "email": "salim_salim@gmail.com",
-      "password": "123456",
+      "firstName": "user3",
+      "lastName": "user3",
+      "phone": "123456789",
+      "country": "Zambia",
+      "email": "user3@example.com",
+      "password": "$2a$10$YYB765Y4Vkf0mRhXvsovnOzBFSsPnXkmTuIaANmMvHSKbrSgUCE7e",
+      "id": 3
+    },
+    {
+      "firstName": "user4",
+      "lastName": "user4",
+      "phone": "123456789",
+      "country": "Taiwan",
+      "email": "user4@example.com",
+      "password": "$2a$10$pKUCezcbkDINveyQx47zjeKpwueEX6xQ8Txu4UORGwtGOHrBMB2FW",
       "id": 4
-    },
-    {
-      "firstName": "emna",
-      "lastName": "emna",
-      "phone": "22741296",
-      "country": "Egypt",
-      "email": "emna.emna@yahoo.fr",
-      "password": "123456",
-      "id": 6
-    },
-    {
-      "firstName": "semia",
-      "lastName": "semia",
-      "phone": "22741296",
-      "country": "Egypt",
-      "email": "semia.semia@example.com",
-      "password": "123456",
-      "id": 7
-    },
-    {
-      "isAuth": false,
-      "firstName": "ragheb",
-      "lastName": "ragheb",
-      "phone": "74185296",
-      "country": "Saudi Arabia",
-      "email": "ragheb987@example.com",
-      "password": "123456",
-      "id": 8
-    },
-    {
-      "firstName": "imen",
-      "lastName": "imen",
-      "phone": "74125896",
-      "country": "Viet Nam",
-      "email": "imen9987@example.fr",
-      "password": "123456",
-      "id": 9
-    },
-    {
-      "firstName": "khaled",
-      "lastName": "khaled",
-      "phone": "98765432",
-      "country": "Croatia",
-      "email": "khaled_khaled@example.com",
-      "password": "123456",
-      "id": 10
-    },
-    {
-      "firstName": "rabeb",
-      "lastName": "rabeb",
-      "phone": "85214796",
-      "country": "Congo",
-      "email": "rabeb.rabeb@gmail.com",
-      "password": "123456",
-      "id": 11
-    },
-    {
-      "firstName": "nada",
-      "lastName": "nada",
-      "phone": "78945612",
-      "country": "Albania",
-      "email": "nada-nada@yahoo.fr",
-      "password": "123456",
-      "id": 12
     }
   ]
 }
